@@ -1,0 +1,382 @@
+  Unnamed: 0  ... September 2020.3
+0        SKU  ...              NaN
+1        NaN  ...     Retail Price
+
+[2 rows x 10 columns] 
+========================================
+
+    100070                     NutriliteTM Cholesterol Health  ...  27.90.1   31.00
+0   100346  NutriliteTM Kids Chewable Concentrated Fruits ...  ...    22.50   25.00
+1   100648     NutriliteTM Concentrated Fruits and Vegetables  ...    37.80   42.00
+2   102046                             NutriliteTM Iron Folic  ...    14.18   15.75
+3   102735      NutriliteTM  ClearGuardTM  Dietary Supplement  ...    18.90   21.00
+4   104144              NutriliteTM Vision Health With Lutein  ...    29.70   33.00
+5   104276                    NutriliteTM Kids Chewable Daily  ...    14.18   15.75
+6   104282  NutriliteTM Kids Brainiums DHATM Dietary Suppl...  ...    29.70   33.00
+7   104664           NutriliteTM Joint Health - 30 Day Supply  ...    28.80   32.00
+8   123365                             NutriliteTM Men’s Pack  ...    33.30   37.00
+9   123372                           NutriliteTM Women’s Pack  ...    33.30   37.00
+10  106964           NutriliteTM Joint Health – 60-day supply  ...    52.20   58.00
+11  109536                         NutriliteTM Multi Carotene  ...    13.50   15.00
+12  109747             NutriliteTM Vitamin C Extended Release  ...    61.20   68.00
+13  110101                      WellsonaTM Brain Health Omega  ...    34.20   38.00
+14  110171                  NutriliteTM Vitamin B Dual-Action  ...    31.50   35.00
+15  110415               NutriliteTM All Plant Protein Powder  ...    40.50   45.00
+16  110538  NutriliteTM  Twist Tubes 2GOTM – Fruits & Vege...  ...    20.70   23.00
+17  110610                              NutriliteTM Cal Mag D  ...    35.10   39.00
+18  110855    NutriliteTM Twist Tubes 2GOTM - Immunity Health  ...    20.70   23.00
+19  110857       NutriliteTM Twist Tubes 2GOTM - Joint Health  ...    20.70   23.00
+20  110922      NutriliteTM Twist Tubes 2GOTM -  Variety Pack  ...    20.70   23.00
+21  111044         NutriliteTM Wellness Bars - Coconut Almond  ...    23.40   26.00
+22  111045   NutriliteTM Wellness Bars - Nutty Dark Chocolate  ...    23.40   26.00
+23  111106    NutriliteTM Memory BuilderTM Dietary Supplement  ...    45.90   51.00
+24  112513  NutriliteTM Kids Brainiums DHATM Dietary Suppl...  ...    29.70   33.00
+25  115409                NutriliteTM Kids Chewable Probiotic  ...    21.60   24.00
+26  119346                              NutriliteTM Vitamin D  ...    26.10   29.00
+27  122971                 NutriliteTM Vitamin B Blister Pack  ...    10.13   11.25
+28  123362                       NutriliteTM Bone Health Pack  ...    98.10  109.00
+29  123364  NutriliteTM Double XTM Vitamin/Mineral/Phytonu...  ...    20.70   23.00
+30  123367                      NutriliteTM Heart Health Pack  ...   112.50  125.00
+31  123377                           NutriliteTM Perfect Pack  ...   119.70  133.00
+32  123842                NutriliteTM Ultra Focus Energy Pack  ...    33.30   37.00
+33  123843                          NutriliteTM Immunity Pack  ...    24.30   27.00
+34   A0244  NutriliteTM Double XTM Vitamin/Mineral/Phytonu...  ...    53.10   59.00
+35   A4042                     NutriliteTM Chewable Vitamin E  ...    38.70   43.00
+36   A4230                      NutriliteTM Gluten-free Daily  ...    36.00   40.00
+37   A4300  NutriliteTM Double XTM Vitamin/Mineral/Phytonu...  ...    54.90   61.00
+38   A5353                NutriliteTM Kids Chewable Vitamin C  ...    29.70   33.00
+39   A5923                      NutriliteTM Garlic Heart Care  ...    30.60   34.00
+40   A5986                     NutriliteTM Immunity Echinacea  ...    29.70   33.00
+41   A7553             NutriliteTM Hair, Skin and Nail Health  ...    22.50   25.00
+42   A8004                        NutriliteTM Prostate Health  ...    36.90   41.00
+43   A8006                     NutriliteTM PMS Women's Health  ...    29.70   33.00
+44   A8084                          NutriliteTM Liver Support  ...    29.70   33.00
+45   A8085    NutriliteTM Menopause EaseTM Dietary Supplement  ...    28.80   32.00
+46   A8600                         NutriliteTM Glucose Health  ...    29.70   33.00
+47   A8601                     NutriliteTM Heart Health CoQ10  ...    25.20   28.00
+48   A8903                       NutriliteTM Digestive Enzyme  ...    43.20   48.00
+49   A8914                  NutriliteTM Balanced Health Omega  ...    18.00   20.00
+50   A8919                     NutriliteTM Heart Health Omega  ...    31.50   35.00
+51   A8992                           NutriliteTM Sleep Health  ...    22.50   25.00
+52  AA0114                    NutriliteTM Digestive Probiotic  ...    34.20   38.00
+53  120571             NutriliteTM Balance WithinTM Probiotic  ...    36.90   41.00
+54  109745  NutriliteTM Vitamin C Extended Release - 60 Ta...  ...    21.60   24.00
+55  123843                          NutriliteTM Immunity Pack  ...    24.30   27.00
+56  124484                     NutriliteTM Daily – 60 Tablets  ...    13.50   15.00
+57  290215                   NutriliteTM Strong Living Bundle  ...   104.40  116.00
+58  294984               NutriliteTM Double XTM Messenger Kit  ...   107.10  114.66
+59  100332  NutriliteTM Perfect Pack for Your Health - 30 ...  ...   108.90  121.00
+
+[60 rows x 10 columns] 
+========================================
+
+          123842  NutriliteTM Ultra Focus Energy Pack  ...   37.00
+0                   123843  NutriliteTM Immunity Pack  ...   27.00
+1   A0244  NutriliteTM Double XTM Vitamin/Mineral/...  ...   59.00
+2               A4042  NutriliteTM Chewable Vitamin E  ...   43.00
+3                A4230  NutriliteTM Gluten-free Daily  ...   40.00
+4   A4300  NutriliteTM Double XTM Vitamin/Mineral/...  ...   61.00
+5          A5353  NutriliteTM Kids Chewable Vitamin C  ...   33.00
+6                A5923  NutriliteTM Garlic Heart Care  ...   34.00
+7               A5986  NutriliteTM Immunity Echinacea  ...   33.00
+8       A7553  NutriliteTM Hair, Skin and Nail Health  ...   25.00
+9                  A8004  NutriliteTM Prostate Health  ...   41.00
+10              A8006  NutriliteTM PMS Women's Health  ...   33.00
+11                   A8084  NutriliteTM Liver Support  ...   33.00
+12  A8085  NutriliteTM Menopause EaseTM Dietary Su...  ...   32.00
+13                  A8600  NutriliteTM Glucose Health  ...   33.00
+14              A8601  NutriliteTM Heart Health CoQ10  ...   28.00
+15                A8903  NutriliteTM Digestive Enzyme  ...   48.00
+16           A8914  NutriliteTM Balanced Health Omega  ...   20.00
+17              A8919  NutriliteTM Heart Health Omega  ...   35.00
+18                    A8992  NutriliteTM Sleep Health  ...   25.00
+19            AA0114  NutriliteTM Digestive Probiotic  ...   38.00
+20     120571  NutriliteTM Balance WithinTM Probiotic  ...   41.00
+21  109745  NutriliteTM Vitamin C Extended Release...  ...   24.00
+22                  123843  NutriliteTM Immunity Pack  ...   27.00
+23             124484  NutriliteTM Daily – 60 Tablets  ...   15.00
+24           290215  NutriliteTM Strong Living Bundle  ...  116.00
+25       294984  NutriliteTM Double XTM Messenger Kit  ...  114.66
+26  100332  NutriliteTM Perfect Pack for Your Heal...  ...  121.00
+27                          n* by NutiliteTM CATEGORY  ...     NaN
+28  124504  n* by NutriliteTM Rays for Days - Sunn...  ...   16.50
+29  124505  n* by NutriliteTM Less Stress, More Ye...  ...   16.50
+30  124506  n* by NutriliteTM Sweet Dreams – Sleep...  ...   16.50
+31  124555  n* by NutriliteTM Go Shield – Immunity...  ...   16.50
+
+[32 rows x 10 columns] 
+========================================
+
+  Unnamed: 0  ... September 2020.3
+0        SKU  ...              NaN
+1        NaN  ...     Retail Price
+2     124556  ...            16.50
+3     124557  ...            27.00
+4     124558  ...            20.00
+5     124559  ...            11.50
+6     124560  ...            20.00
+7     124561  ...            20.00
+8     124562  ...            20.00
+9     124820  ...            65.00
+
+[10 rows x 10 columns] 
+========================================
+
+    100193                           NutriliteTM Carb Blocker  ...  29.70.1  33.00
+0   100280                            NutriliteTM Lean Muscle  ...     44.1   49.0
+1   102736                           NutriliteTM Fiber Powder  ...     25.2   28.0
+2   110274  BodyKey by NutriliteTM Caramel Cookie Dough Me...  ...     37.8   42.0
+3   110275  BodyKey by NutriliteTM Mixed Berry Crisp Meal Bar  ...     37.8   42.0
+4   110276  BodyKey by NutriliteTM Chocolate Brownie Meal Bar  ...     37.8   42.0
+5   110277  BodyKey by NutriliteTM Caramel Peanut Butter M...  ...     37.8   42.0
+6   110828  BodyKey by NutriliteTM Blueberries & Yogurt Me...  ...     37.8   42.0
+7   110835   BodyKey by NutriliteTM Cookies & Cream  Meal Bar  ...     37.8   42.0
+8   110339               BodyKeyTM Whole Grain Tortilla Chips  ...     32.4   36.0
+9   110341                         BodyKeyTM Oolong Green Tea  ...     22.5   25.0
+10  117085         NutriliteTM SlimmetryTM Dietary Supplement  ...     27.9   31.0
+11  122276  BodyKey by NutriliteTM Chocolate Meal Replacem...  ...     45.0   50.0
+12  122277  BodyKey by NutriliteTM French Vanilla Meal Rep...  ...     45.0   50.0
+13  122278  BodyKey by NutriliteTM Strawberry Meal Replace...  ...     45.0   50.0
+14  122949  BodyKeyTM Chocolate Meal Replacement Shake Mix...  ...     46.8   52.0
+15  122950  BodyKeyTM French Vanilla Meal Replacement Shak...  ...     46.8   52.0
+16  122951  BodyKeyTM Strawberry Meal Replacement Shake Mi...  ...     46.8   52.0
+17  282063  BodyKey by NutriliteTM Caffeine-free Soothing ...  ...      8.1    9.0
+18  285369                   BodyKeyTM Slim Popcorn - 24 Bags  ...     40.5   45.0
+19  282064         BodyKey by NutriliteTM Zesty Protien Snack  ...     27.0   30.0
+20  290761     BodyKey by NutriliteTM Cinnamon Swirl Meal Bar  ...     37.8   42.0
+21  290762  BodyKey by NutriliteTM Savory Almonds & Seeds ...  ...     37.8   42.0
+
+[22 rows x 10 columns] 
+========================================
+
+    293052                  XSTM Energy Drink Tamarindo Blast  ...  21.60.1  24.00
+0   286159                             XSTM Energy Café Mocha  ...     29.7   33.0
+1   284728            XSTM Energy Drink Cranberry-Grape Blast  ...     21.6   24.0
+2   284729                     XSTM Energy Drink Citrus Blast  ...     21.6   24.0
+3   284730                   XSTM Energy Drink Tropical Blast  ...     21.6   24.0
+4   284731             XSTM Energy Drink Electric Lemon Blast  ...     21.6   24.0
+5   284733  XSTM Energy Drink Caffeine-Free Cranberry-Grap...  ...     21.6   24.0
+6   284734                   XSTM Energy Drink Rootbeer Blast  ...     21.6   24.0
+7   284735          XSTM Energy Drink Black Cherry Cola Blast  ...     21.6   24.0
+8   284737                 XSTM Energy Drink Wild Berry Blast  ...     21.6   24.0
+9   284741     XSTM Sparkling Juiced Energy - Pink Grapefruit  ...     21.6   24.0
+10  284742  XSTM Sparkling Juiced Energy - Mango Pineapple...  ...     21.6   24.0
+11  293054         XSTM Sparkling Juiced Energy - Dragonfruit  ...     21.6   24.0
+12  293054  XSTM Caffine-Free Sparkling Juiced Energy - Ma...  ...     21.6   24.0
+13  284736                    XSTM Energy + Burn - Strawberry  ...     25.2   28.0
+14  284738      XSTM Energy Drink Classic Blast - New 8.4 oz.  ...     21.6   24.0
+15  284740  XSTM Energy Drink Naranja Blast (Orange) - New...  ...     21.6   24.0
+16  284739       XSTM Energy Drink Summit Blast - New 8.4 oz.  ...     21.6   24.0
+17  293055                  XSTM Energy + Burn – Blood Orange  ...     25.2   28.0
+18  763743         XSTM Energy Gum – Mint Explosion - 6 Packs  ...     20.7   23.0
+19  101593                     XSTM Energy + Focus – 60 Count  ...     27.9   31.0
+20  107846                 XSTM Energy + Focus – Blister Pack  ...     16.2   18.0
+21  110369  XSTM Sports Protein Shake – Rich Chocolate - 1...  ...     36.0   40.0
+22  110370  XSTM Sports Protein Shake – Vanilla Crème - 12...  ...     36.0   40.0
+23  110371  XSTM Intense Pre-Workout Boost – Citrus Burst ...  ...     24.3   27.0
+24  110374       XSTM Post-Workout Recovery – Cherry Lemonade  ...     41.4   46.0
+25  110375   XSTM Sports Protein Powder – Chocolate Milkshake  ...     49.5   55.0
+26  110376         XSTM Sports Protein Powder – Vanilla Dream  ...     49.5   55.0
+27  110377  XSTM Sports Protein Powder Single Serve Packet...  ...     26.1   29.0
+28  110378                  XSTM Energy Bars – Chocolate Chip  ...     25.2   28.0
+29  110379            XSTM Energy Bars – Peanut Butter Crunch  ...     25.2   28.0
+30  110385  XSTM Sports Protein Bars – Chocolate Peanut Bu...  ...     27.0   30.0
+31  110386   XSTM Sports Protein Bars – Chocolate Berry Blast  ...     27.0   30.0
+32  110389               XSTM Sports Twist Tubes – Lemon Lime  ...     14.4   16.0
+33  110390              XSTM Sports Twist Tubes – Fruit Punch  ...     14.4   16.0
+34  110601  XSTM CocoWater Hydration Drink Mix - Strawberr...  ...     20.7   23.0
+
+[35 rows x 10 columns] 
+========================================
+
+       SKU  ... September 2020\rRetail Price
+0   110627  ...                        31.00
+1   110628  ...                        31.00
+2   110631  ...                        23.00
+3   110638  ...                       206.00
+4   110815  ...                        55.00
+..     ...  ...                          ...
+65  118184  ...                       304.00
+66  118185  ...                       163.00
+67  118205  ...                       136.80
+68  118207  ...                        33.00
+69  118208  ...                        33.00
+
+[70 rows x 10 columns] 
+========================================
+
+       SKU  ... September 2020\rRetail Price
+0   119024  ...                         57.0
+1   119336  ...                         33.0
+2   119618  ...                         35.0
+3   119619  ...                         40.0
+4   119621  ...                         73.0
+..     ...  ...                          ...
+65  110011  ...                         41.0
+66  110012  ...                         41.0
+67  110013  ...                         41.0
+68  110014  ...                         41.0
+69  110015  ...                         41.0
+
+[70 rows x 10 columns] 
+========================================
+
+       SKU  ... September 2020\rRetail Price
+0   110016  ...                         41.0
+1   110017  ...                         41.0
+2   110019  ...                         41.0
+3   110020  ...                         41.0
+4   110022  ...                         41.0
+..     ...  ...                          ...
+64  117693  ...                         37.0
+65  117694  ...                         37.0
+66  117695  ...                         37.0
+67  117696  ...                         37.0
+68  117697  ...                         37.0
+
+[69 rows x 10 columns] 
+========================================
+
+       SKU  ... September 2020\rRetail Price
+0   117699  ...                        37.00
+1   117700  ...                        37.00
+2   117702  ...                        37.00
+3   117703  ...                        37.00
+4   117705  ...                        37.00
+..     ...  ...                          ...
+64  123033  ...                        19.25
+65  123034  ...                        22.00
+66  123035  ...                        22.00
+67  123037  ...                        25.00
+68  123038  ...                        15.00
+
+[69 rows x 10 columns] 
+========================================
+
+       SKU  ... September 2020\rRetail Price
+0   123137  ...                        39.00
+1   122579  ...                        19.25
+2   122581  ...                        19.25
+3   122582  ...                        16.75
+4   122583  ...                        16.75
+..     ...  ...                          ...
+64  110663  ...                         9.75
+65  114948  ...                        19.50
+66  110684  ...                        16.00
+67  110667  ...                         9.00
+68  114945  ...                        17.75
+
+[69 rows x 10 columns] 
+========================================
+
+   Unnamed: 0  ... September 2020.3
+0         SKU  ...              NaN
+1         NaN  ...     Retail Price
+2      110657  ...             9.00
+3      114944  ...            17.75
+4      116822  ...            10.75
+5      120467  ...            22.00
+6      110677  ...            16.00
+7      119593  ...            16.00
+8      110686  ...            22.00
+9      110685  ...            13.25
+10     110664  ...             9.00
+11     110665  ...            17.75
+12     110655  ...             9.00
+13     110656  ...            17.75
+14     110676  ...            13.25
+15     114954  ...            13.25
+16     110675  ...            13.25
+17     761531  ...            16.00
+18     123746  ...            11.50
+19     123747  ...            13.25
+20     118102  ...            11.50
+21     123396  ...            21.00
+22     118107  ...             9.75
+23     118112  ...             8.00
+24     118114  ...            12.75
+25     118116  ...            21.00
+26     123398  ...            23.00
+27     118117  ...             8.00
+28     118120  ...             7.00
+29     118104  ...            11.50
+30     123397  ...            21.00
+31     118110  ...             9.75
+32     298153  ...             9.00
+33     125056  ...            10.00
+34     100957  ...            11.50
+35      E9530  ...             4.00
+36      E9529  ...             9.25
+37     120351  ...             5.25
+38     122875  ...            16.00
+
+[39 rows x 11 columns] 
+========================================
+
+    109849           Amway HomeTM SA8TM Laundry Detergent  ...  32.40.1   36.00
+0   109867            Amway HomeTM Automatic Dish Tablets  ...    17.55   19.50
+1   110403                     Amway HomeTM Prewash Spray  ...    11.25   12.50
+2   110478  Amway HomeTM SA8TM Laundry Detergent - Floral  ...    30.60   34.00
+3   110480          Amway HomeTM Fabric Softener – Floral  ...     7.65    8.50
+4   110485      Amway HomeTM L.O.C.TM Multi-Purpose Wipes  ...    10.13   11.25
+5   110488   Amway HomeTM Dish DropsTM Dishwashing Liquid  ...    11.93   13.25
+6   110490        Amway HomeTM Scrub BudsTM Scouring Pads  ...     4.05    4.50
+7   112532  Amway HomeTM SA8TM Laundry Detergent – Floral  ...     8.55    9.50
+8   112536            Amway HomeTM Kitchen Cleaner Refill  ...    11.93   13.25
+9   112537              Amway HomeTM Glass Cleaner Refill  ...    11.93   13.25
+10  112546           Amway HomeTM Bathroom Cleaner Refill  ...    11.93   13.25
+11  117774                 Amway HomeTM All Fabric Bleach  ...    20.70   23.00
+12  117780          Amway HomeTM Fabric Softener - Floral  ...    24.30   27.00
+13  119888                      Amway HomeTM Intro Bundle  ...    96.30  107.00
+14   E0001    Amway HomeTM L.O.C.TM Multi-Purpose Cleaner  ...     8.10    9.00
+15   E0023         PursueTM Disinfectant Deodorizer Spray  ...     7.65    8.50
+16   E3878                  PursueTM Disinfectant Cleaner  ...     9.68   10.75
+
+[17 rows x 10 columns] 
+========================================
+
+   107890 Amway HomeTM Dish DropsTM Pump Dispenser  ...  4.95.3  5.50.1
+0  116798                Amway HomeTM Spray Bottle  ...    4.05    4.50
+1  103972                        1L Dispenser Pump  ...    2.25    2.50
+2  297229        Amway HomeTM Spotless Dish Bundle  ...   36.23   40.25
+
+[3 rows x 10 columns] 
+========================================
+
+   100186  ...    208.00
+0  100188  ...  1,042.00
+1  100189  ...  1,042.00
+2  100662  ...    120.00
+3  100663  ...    120.00
+4  101078  ...    136.00
+5  101082  ...    250.00
+
+[6 rows x 10 columns] 
+========================================
+
+   Unnamed: 0  ... September 2020.3
+0         SKU  ...              NaN
+1         NaN  ...     Retail Price
+2      101083  ...           429.00
+3      101084  ...           407.00
+4      101085  ...           268.00
+5      101086  ...           385.00
+6      101087  ...           167.00
+7      101398  ...           120.00
+8      102709  ...           416.00
+9      102715  ...            54.00
+10     105084  ...           383.00
+11     110194  ...           100.00
+12     110720  ...         1,042.00
+13     110192  ...           456.00
+14     118040  ...            95.00
+15     118384  ...         1,209.00
+16     120231  ...         1,244.50
+17     120232  ...         1,565.10
+18     120539  ...         1,472.00
+19     120540  ...           163.00
+20     120541  ...           113.00
+
+[21 rows x 10 columns] 
+========================================
+
