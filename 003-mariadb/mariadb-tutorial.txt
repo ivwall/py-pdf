@@ -1,0 +1,1 @@
+https://linuxhint.com/connect_mariadb_pymysql/
