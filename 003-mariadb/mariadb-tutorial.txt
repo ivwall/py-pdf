@@ -1,1 +1,13 @@
 https://linuxhint.com/connect_mariadb_pymysql/
+
+grant all privileges on twadb.* to 'twaadmin'@'localhost' identified by 'twaadmin';
+
+
+pydev@pydev:~/dev03/py-pdf/003-mariadb$ mysql -u twadb -p -h 192.168.1.7
+Enter password: 
+ERROR 1130 (HY000): Host '192.168.1.7' is not allowed to connect to this MariaDB server
+pydev@pydev:~/dev03/py-pdf/003-mariadb$ 
+
+
+
+
